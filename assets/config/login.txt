@@ -1,0 +1,4 @@
+root:root:9/9/9999:2:30:VIP
+root:karss:9/9/9999:2:30:VIP
+2root:2root:9/9/9999:2:30:BASIC
+user:pass:EXPRIRY(m/d/y(9/9/9999)):CONS:MAXTIME:VIP/BASIC
